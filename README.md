@@ -4,10 +4,10 @@
 This project uses Hive to answer questions about Federal Aerial Surveilance. The data was gathered by a plane tracking website, Flightradar24, and compiled by BuzzFeed.
 
 ## Technologies Used
-Scala - version 2.13.4
-Scala Logging - version 3.9.2
-sbt - version 1.4.4
-Apache Hive - version 3.1.2
+* Scala - version 2.13.4
+* Scala Logging - version 3.9.2
+* sbt - version 1.4.4
+* Apache Hive - version 3.1.2
 
 ## Features
 
